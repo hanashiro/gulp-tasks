@@ -1,0 +1,37 @@
+{
+  "name": "eSight",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "browserify": "11.2.0",
+    "classnames": "^1.2.0",
+    "react": "^0.13.0",
+    "react-highcharts": "0.0.7",
+    "react-router": "^1.0.0-rc1",
+    "react-tools": "*",
+    "reactify": "^1.1.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "babel-plugin-react-transform": "1.1.1",
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^0.0.6",
+    "gulp-live-server": "0.0.29",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-util": "^3.0.6",
+    "livereactload": "^2.0.1",
+    "react-proxy": "1.1.0",
+    "require-dir": "^0.1",
+    "underscore": "^1.8.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-transform": "^1.0.0",
+    "watchify": "^3.4.0"
+  }
+}
